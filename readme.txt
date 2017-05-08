@@ -12,7 +12,7 @@
 
 测试用例生成(test文件里包含有生成好的测试用例):
 make TSPtest
-make KnapsaceTest.out
+make KnapsaceTest
 
 输入样例:
 
